@@ -9,8 +9,12 @@ public class while
 
 	void Start()
 	{
-		System.out.print( "Hello World!!" );
+		int input == 100;
+		while( input != -1 )
+		{
+			System.out.print( "Hello World!!" );
+			input--;
+		}
 	}
-
 
 }
